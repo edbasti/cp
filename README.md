@@ -1,2 +1,1 @@
-# cp
-React Contact Search App
+# [Visit the wiki](https://github.com/Carepatron/Carepatron-Test-Full/wiki)

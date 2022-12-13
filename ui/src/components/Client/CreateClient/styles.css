@@ -1,0 +1,61 @@
+.form-wrapper {
+	height: 100%;
+}
+
+.content-wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 40%;
+}
+
+.number-icon {
+	border: 1px solid gray;
+	background-color: gray;
+	color: white;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-right: 5px;
+}
+
+.active-number-icon {
+	background-color: blue;
+}
+
+.vertical-line {
+	width: 150px;
+	height: 1px;
+	background-color: #d3d3d3;
+}
+
+.subheader {
+	display: flex;
+	flex-direction: row;
+	margin-top: 30px;
+}
+.subheader-wrapper {
+	display: flex;
+	flex-direction: row;
+	font-size: 10px;
+	margin-bottom: 30px;
+	justify-content: center;
+	align-items: center;
+}
+.personal-details {
+}
+
+.contact-details {
+}
+
+.back-arrow {
+	color: blue;
+	vertical-align: middle;
+}
+
+.back-arrow:hover {
+	cursor: pointer;
+}
